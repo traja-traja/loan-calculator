@@ -1,0 +1,17 @@
+.form {
+  background-color: #A3CD3A;
+  padding: 2rem;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.formSection {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.header {
+  flex-basis: 75%;
+  color: white;
+}
